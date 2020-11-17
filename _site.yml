@@ -1,0 +1,9 @@
+name: "other-msabr"
+output_dir: "."
+navbar:
+  title: "Name?"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Page"
+      href: about.html

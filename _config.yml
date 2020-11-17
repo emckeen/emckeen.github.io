@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+name: "other-msabr"
+output_dir: "."
+navbar:
+  title: "Name?"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Us"
+      href: about.html
